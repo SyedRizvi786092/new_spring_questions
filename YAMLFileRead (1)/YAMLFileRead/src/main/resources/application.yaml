@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: YAMLFileRead
+
+app:
+  topics:
+    - technical
+    - health
+    - sports
